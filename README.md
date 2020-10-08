@@ -1,8 +1,8 @@
-# Ableton-Keyboard-Numpad-Beatpad
+# Ableton Keyboard Numpad Beatpad
 
 This is a script that remaps the numpad on your keyboard to work like a beatpad on Ableton.
 
-![Screenshot](Ableton Visual.png)
+![alt text](Ableton Visual.png)
 
 All you have to do is download AbletonNumpadBeatpad.exe and run it after turning on "Computer MIDI Keyboard" mode in Ableton,
 then you're ready to start jamming.
